@@ -9,8 +9,8 @@ CNN's involve data compression. In Pooling layer, the insignificant features of 
 In this project, I have worked on the CNN model to predict if the plant leaf has a disease or not classifying into 3 labels as Healthy/Powdery/Rust. 
 The steps involved are as follows:
 
-1) Firstly, import the necessary libraries whwerever and whenever required. Get the main paths and associated categories.
-2) Secondly, join the paths involved so as to be able to read the images.
+1) Import the necessary libraries as required. Get the main paths and associated categories.
+2) Join the paths involved so as to be able to read the images.
 3) Resize and visualize images wherever required.
 4) Assign labels to the images while collecting them in an empty array.
 5) Take value counts for all 3 classes present in the dataset to check if the data is balanced or not.
