@@ -4,7 +4,7 @@ CNN comprises of 3 layers:
    2) Pooling Layer
    3) Fully Connected Layer
 
-CNN's involve data compression. In Pooling layer, the insignificant features of an image are removed retaining only its significant features which are then passed to the next layer which is Pooling Layer. Same process is followed in this layer as well. The most important is the slider or filter which slides over the image in this process. In  Convolutional layer, dot product which is the convolution is found with the help of the slider. In Pooling layers, there are 2 options: MaxPooling or AvgPooling. The compressed data is then flattened to a series before passing to the fully connected layer. The fully connected layer is a layer is a layer in which all neurons in each layer are interconnected with each other.
+CNN's involve data compression. In Pooling layer, the insignificant features of an image are removed retaining only its significant features which are then passed to the next layer which is Pooling Layer. Same process is followed in this layer as well. The most important is the slider or filter which slides over the image in this process. In  Convolutional layer, dot product which is the convolution is found with the help of the slider. In Pooling layer, there are 2 options: MaxPooling or AvgPooling. The compressed data is then flattened to a series before passing to the fully connected layer. The fully connected layer is a layer in which all neurons in each layer are interconnected with each other.
 
 In this project, I have worked on the CNN model to predict if the plant leaf has a disease or not classifying into 3 labels as Healthy/Powdery/Rust. 
 The steps involved are as follows:
