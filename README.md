@@ -1,5 +1,5 @@
--CNN stands for Convolutional Neural Network. It is used to classify images in the target variable. It is to be used when the input is an image data. 
--CNN comprises of 3 layers:
+CNN stands for Convolutional Neural Network. It is used to classify images in the target variable. It is to be used when the input is an image data. 
+CNN comprises of 3 layers:
    1) Convolutional Layer
    2) Pooling Layer
    3) Fully Connected Layer
